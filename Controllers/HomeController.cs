@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Shopping_Micro_Services.Data;
 using Shopping_Micro_Services.Models;
 
 namespace Shopping_Micro_Services.Controllers;
@@ -15,7 +16,7 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        return View(ProductContext.Products);
     }
 
     public IActionResult Privacy()
