@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Shopping-Micro-Services/1.0.0": {
+        "runtime": {
+          "Shopping-Micro-Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shopping-Micro-Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
