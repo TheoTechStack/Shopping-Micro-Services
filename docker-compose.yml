@@ -1,0 +1,19 @@
+# Please refer https://aka.ms/HTTPSinContainer on how to setup an https developer certificate for your ASP.NET Core service.
+
+version: '3.4'
+
+services:
+  shoppingmicroservices:
+    image: shoppingmicroservices
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 5001:80
+    environment:
+      - ASPNETCORE_DATA_PROTECTION__APPLICATION_NAME=ShoppingMicroServices
+    volumes:
+      - dataProtectionKeys:/app/DataProtection-Keys
+volumes:
+  dataProtectionKeys:
+

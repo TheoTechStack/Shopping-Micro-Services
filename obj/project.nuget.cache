@@ -1,8 +1,26 @@
 {
   "version": 2,
-  "dgSpecHash": "0TwxW6FnPo6MzKCfUiNHyx7klBtmk3/nQ7Cf0YZKRnDazOQZcevS3tPHRi54sw75BgugnngZIzpuoul2l0v80g==",
+  "dgSpecHash": "HcMyGDte/2I94dSmMNpFxUm2MKZSJQVatqQQV//4mijGb6ZIRajHETiTzv7lj+A9P1L8S+ctQh8KTx8mDJCQLg==",
   "success": true,
   "projectFilePath": "/Users/theoramalatso/Documents/GitHub/Shopping-Micro-Services/Shopping-Micro-Services.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/theoramalatso/.nuget/packages/microsoft.aspnetcore.cryptography.internal/8.0.7/microsoft.aspnetcore.cryptography.internal.8.0.7.nupkg.sha512",
+    "/Users/theoramalatso/.nuget/packages/microsoft.aspnetcore.dataprotection/8.0.7/microsoft.aspnetcore.dataprotection.8.0.7.nupkg.sha512",
+    "/Users/theoramalatso/.nuget/packages/microsoft.aspnetcore.dataprotection.abstractions/8.0.7/microsoft.aspnetcore.dataprotection.abstractions.8.0.7.nupkg.sha512",
+    "/Users/theoramalatso/.nuget/packages/microsoft.aspnetcore.dataprotection.extensions/8.0.7/microsoft.aspnetcore.dataprotection.extensions.8.0.7.nupkg.sha512",
+    "/Users/theoramalatso/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/theoramalatso/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/theoramalatso/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "/Users/theoramalatso/.nuget/packages/microsoft.extensions.diagnostics.abstractions/8.0.0/microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg.sha512",
+    "/Users/theoramalatso/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "/Users/theoramalatso/.nuget/packages/microsoft.extensions.hosting.abstractions/8.0.0/microsoft.extensions.hosting.abstractions.8.0.0.nupkg.sha512",
+    "/Users/theoramalatso/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.1/microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "/Users/theoramalatso/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "/Users/theoramalatso/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/theoramalatso/.nuget/packages/system.diagnostics.diagnosticsource/8.0.0/system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "/Users/theoramalatso/.nuget/packages/system.formats.asn1/8.0.0/system.formats.asn1.8.0.0.nupkg.sha512",
+    "/Users/theoramalatso/.nuget/packages/system.security.cryptography.pkcs/8.0.0/system.security.cryptography.pkcs.8.0.0.nupkg.sha512",
+    "/Users/theoramalatso/.nuget/packages/system.security.cryptography.xml/8.0.1/system.security.cryptography.xml.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
